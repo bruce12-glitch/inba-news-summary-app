@@ -8,7 +8,7 @@
 
 > [中文版](https://blog.betacat.io/post/2023/06/summarize-hacker-news-by-chatgpt/)
 
-[Hacker News Summary](https://hackernews.betacat.io/) leverages AI technology to extract summaries
+[Inba News Summary App](https://hackernews.betacat.io/) leverages AI technology to extract summaries
 and illustrations from [Hacker News](https://news.ycombinator.com/)
 articles, providing a seamless news scanning experience.
 
